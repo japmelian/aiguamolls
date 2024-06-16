@@ -86,9 +86,6 @@ with st.container():
         mapa_localizacion = gpd.read_file('static/geo/clean_pein.geojson')
         puntos_interes = gpd.read_file('static/geo/puntos_interes.geojson')
 
-        mapa_localizacion.crs = 'EPSG:4326'
-        puntos_interes.crs = 'EPSG:4326'
-
         # Crear un mapa con Folium
         mapa_info = folium.Map(location=[mapa_localizacion.centroid.y.mean(), mapa_localizacion.centroid.x.mean()], zoom_start=11)
 
