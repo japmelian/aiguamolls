@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "tipo": "Observatorio" }, "geometry": { "type": "Point", "coordinates": [ 3.104244, 42.208021 ] } },
+{ "type": "Feature", "properties": { "tipo": "Observatorio" }, "geometry": { "type": "Point", "coordinates": [ 3.099087, 42.212946 ] } },
+{ "type": "Feature", "properties": { "tipo": "Observatorio" }, "geometry": { "type": "Point", "coordinates": [ 3.106178, 42.208691 ] } },
+{ "type": "Feature", "properties": { "tipo": "Observatorio" }, "geometry": { "type": "Point", "coordinates": [ 3.101743, 42.210766 ] } },
+{ "type": "Feature", "properties": { "tipo": "Observatorio" }, "geometry": { "type": "Point", "coordinates": [ 3.096578, 42.212546 ] } },
+{ "type": "Feature", "properties": { "tipo": "Observatorio" }, "geometry": { "type": "Point", "coordinates": [ 3.101439, 42.2134 ] } },
+{ "type": "Feature", "properties": { "tipo": "Observatorio" }, "geometry": { "type": "Point", "coordinates": [ 3.09533, 42.218353 ] } },
+{ "type": "Feature", "properties": { "tipo": "Observatorio" }, "geometry": { "type": "Point", "coordinates": [ 3.093688, 42.220444 ] } },
+{ "type": "Feature", "properties": { "tipo": "Observatorio" }, "geometry": { "type": "Point", "coordinates": [ 3.094748, 42.221412 ] } },
+{ "type": "Feature", "properties": { "tipo": "Observatorio" }, "geometry": { "type": "Point", "coordinates": [ 3.093687, 42.22442 ] } },
+{ "type": "Feature", "properties": { "tipo": "Observatorio" }, "geometry": { "type": "Point", "coordinates": [ 3.096997, 42.224941 ] } },
+{ "type": "Feature", "properties": { "tipo": "Observatorio" }, "geometry": { "type": "Point", "coordinates": [ 3.109747, 42.206078 ] } },
+{ "type": "Feature", "properties": { "tipo": "Observatorio" }, "geometry": { "type": "Point", "coordinates": [ 3.113486, 42.234163 ] } },
+{ "type": "Feature", "properties": { "tipo": "Observatorio" }, "geometry": { "type": "Point", "coordinates": [ 3.110695, 42.287809 ] } },
+{ "type": "Feature", "properties": { "tipo": "Observatorio" }, "geometry": { "type": "Point", "coordinates": [ 3.113723, 42.219368 ] } },
+{ "type": "Feature", "properties": { "tipo": "Observatorio" }, "geometry": { "type": "Point", "coordinates": [ 3.0986005, 42.2151919 ] } },
+{ "type": "Feature", "properties": { "tipo": "Observatorio" }, "geometry": { "type": "Point", "coordinates": [ 3.0925729, 42.2118472 ] } },
+{ "type": "Feature", "properties": { "tipo": "Observatorio" }, "geometry": { "type": "Point", "coordinates": [ 3.0987631, 42.2094077 ] } },
+{ "type": "Feature", "properties": { "tipo": "Información" }, "geometry": { "type": "Point", "coordinates": [ 3.0929767, 42.2244646 ] } },
+{ "type": "Feature", "properties": { "tipo": "Información" }, "geometry": { "type": "Point", "coordinates": [ 3.096247, 42.2127831 ] } },
+{ "type": "Feature", "properties": { "tipo": "Baños" }, "geometry": { "type": "Point", "coordinates": [ 3.092776, 42.2246512 ] } },
+{ "type": "Feature", "properties": { "tipo": "Baños" }, "geometry": { "type": "Point", "coordinates": [ 3.0976403, 42.2129526 ] } },
+{ "type": "Feature", "properties": { "tipo": "Picnic" }, "geometry": { "type": "Point", "coordinates": [ 3.0920311, 42.2242924 ] } },
+{ "type": "Feature", "properties": { "tipo": "Picnic" }, "geometry": { "type": "Point", "coordinates": [ 3.0965906, 42.2128781 ] } },
+{ "type": "Feature", "properties": { "tipo": "Aparcamientos" }, "geometry": { "type": "Point", "coordinates": [ 3.0913408, 42.2127853 ] } },
+{ "type": "Feature", "properties": { "tipo": "Aparcamientos" }, "geometry": { "type": "Point", "coordinates": [ 3.0888285, 42.2113665 ] } }
+]
+}
