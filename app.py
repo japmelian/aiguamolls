@@ -113,8 +113,16 @@ with st.container():
         # Añadir los polígonos al mapa
         folium.GeoJson(mapa_localizacion).add_to(mapa_info)
 
-        st_folium(mapa_info, width=1200, height=500)
+        st_folium(mapa_info, width=1200, height=300)
 
+with st.container():
+    col1, col2 = st.columns([1, 2])
+
+    with col1:
+        # Empty
+        _ = 1
+
+    with col2:
         descripciones = {
             'static/images/icon_photo.png': 'Observatorios',
             'static/images/icon_info.png': 'Puntos de información',
