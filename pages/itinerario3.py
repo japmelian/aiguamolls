@@ -54,7 +54,7 @@ with st.container():
 
     folium.GeoJson(itinerario).add_to(mapa_itinerario)
 
-    st_folium(mapa_itinerario, width=1800)
+    st_folium(mapa_itinerario, width=1800, height=500)
 
     descripciones = {
         'static/images/icon_photo.png': 'Observatorios',
